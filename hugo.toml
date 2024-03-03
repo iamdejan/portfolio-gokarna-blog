@@ -1,4 +1,4 @@
-baseURL = 'https://overrated.dev/'
+baseURL = 'https://blog.overrated.dev/'
 languageCode = 'en-us'
 title = 'Giovanni Dejan'
 theme = "gokarna"
