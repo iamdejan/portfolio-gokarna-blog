@@ -1,6 +1,6 @@
 +++
 title = "Computers Can't Do Maths! (CSSE)"
-date = 2024-03-03T11:07:41+07:00
+date = 2020-04-19T00:00:00+07:00
 description = ""
 type = "post"
 showTableOfContents = "true"
@@ -176,7 +176,7 @@ If the equation is as complex as the last equation (with operator precedence and
 
 *Fun fact: Shunting Yard algorithm name is used by Edsger Dijkstra because the visualization resembles railroad shunting yard.*
 
-[![Shunting Yard Algorithm by Edsger Dijkstra](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Shunting_yard.svg/678px-Shunting_yard.svg.png)](http://en.wikipedia.org/wiki/Shunting-yard_algorithm)
+[![Shunting Yard Algorithm by Edsger Dijkstra](/images/shunting-yard-algorithm.png)](http://en.wikipedia.org/wiki/Shunting-yard_algorithm)
 
 Above is the visualization of Shunting Yard algorithm from Wikipedia, albeit not complete, because the example expression doesn't have parentheses. As you can see, there are 2 components of Shunting Yard algorithm:
 
