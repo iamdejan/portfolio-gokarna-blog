@@ -4,6 +4,7 @@ date = 2022-01-30T00:00:00+07:00
 description = ""
 type = "post"
 showTableOfContents = "true"
+image = "https://miro.medium.com/v2/resize:fit:640/format:webp/1*nPdEsahmk0JBHWE5RbqnIA.jpeg"
 +++
 
 ![United We Stand from Yu-Gi-Oh! Trading Card Game](https://miro.medium.com/v2/resize:fit:640/format:webp/1*nPdEsahmk0JBHWE5RbqnIA.jpeg)
@@ -12,11 +13,11 @@ In this article, I want to share to you how I learn Kotlin language with a metho
 
 # In a Nutshell: Why Kotlin?
 
-Why I choose Kotlin? Well, because Kotlin currently is de jure supported programming language for Android development* by Google. We want our application to be maintainable as long as possible, so we use a programming language that is officially supported.
+Why I choose Kotlin? Well, because Kotlin currently is de jure supported programming language for Android development\* by Google. We want our application to be maintainable as long as possible, so we use a programming language that is officially supported.
 
 Another factor is that Kotlin maintains type-safety by using "optional" (a wrapper class to contain actual value and prevent Null Pointer Exception) for a lot of their standard libraries, by using the question ("?") mark.
 
-*I guess Java is still quite popular for Android development, albeit declining.
+\* I guess Java is still quite popular for Android development, albeit declining.
 
 # How to Learn A New Programming Language?
 
